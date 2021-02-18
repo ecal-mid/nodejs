@@ -9,6 +9,6 @@ From simple javascript tools to web scraping and server-client communication
     1. Go to directory: `cd [your path to the cloned folder]` + Enter.
     2. Install the modules `npm i` + Enter.
 3. To run the index.js: `node .`
-4. To run an folder example: `node [folder name]`. Ex: `node express`
+4. To run any folder example: `node [folder name]`. Ex: `node express`
 
 More doc coming soon!
