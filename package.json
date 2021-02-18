@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node . yes no=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecal-mid/nodejs.git"
+  },
+  "keywords": [],
+  "author": "Sébastien Matos <matos.sebastien@gmail.com> (http://ecal-mid.ch)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecal-mid/nodejs/issues"
+  },
+  "homepage": "https://github.com/ecal-mid/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^16.4.0",
+    "nodemon": "^2.0.7"
+  }
+}
